@@ -25,14 +25,32 @@ If the user wants to see the past search city weather condition again, just clic
 
 * Here you can run the application using the following URL:  https://haymanotyealemu.github.io/Weather-Dashboard/
 
-![](image/screenshoot.PNG)
+#
+![Screenshot1](./assets/images/screenshoot1.PNG)
+#
+![Screenshot2](./assets/images/screenshoot2.PNG)
+#
+![Screenshot3](./assets/images/screenshoot3.PNG)
 
 * Credits
 
-  .https://openweathermap.org/api
-  .https://getbootstrap.com/docs/4.5/getting-started/introduction/
-  .https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-  .https://fontawesome.com/
+  ## Contributors
+[Gurjant Riarl](https://github.com/GurjantRiar/Weatherdashboard)
+
+
+# 
+## Built With:
+[Visual Studio](https://visualstudio.microsoft.com/)
+
+[CSS](https://www.w3.org/TR/CSS/#css)
+
+[JavaScript](https://javascript.info/)
+# 
+## Links:
+[Email](pratikpatel_85@yahoo.com)
+
+[Github Profile](https://github.com/GurjantRiar/
+)
 
 
 
