@@ -25,11 +25,11 @@ If the user wants to see the past search city weather condition again, just clic
 
 
 #
-![Screenshot1](/assets/images/screenshoot1.PNG)
+![Screenshot1](/assets/images/screenshoot1.png)
 #
-![Screenshot2](/assets/images/screenshoot2.PNG)
+![Screenshot2](/assets/images/screenshoot2.png)
 #
-![Screenshot3](/assets/images/screenshoot3.PNG)
+![Screenshot3](/assets/images/screenshoot3.png)
 
 
 
