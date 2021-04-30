@@ -14,7 +14,7 @@ The 5-days weather forecast also displays below the current weather conditions s
 * Temperature
 * Humidity
 The local storage is used here to store the previous search city and display them to the user in the left side of the page under the list group. The user can also clear the search history by clicking the clear history button.
-If the user wants to see the past search city weather condition again, just click the list group item cities under the clear history button.
+
 
 ### How:
 * First when the user opens the page, the “loadlastCity” function is fired up which is responsible for fetching the stored cities from the local storage and  the “addToList” function is called to display the cities in the search history . The last searched city is then pass as a parameter in the “currentWeather” function and run the function for that city.
@@ -46,7 +46,7 @@ If the user wants to see the past search city weather condition again, just clic
 [JavaScript](https://javascript.info/)
 # 
 ## Links:
-[Email](pratikpatel_85@yahoo.com)
+[Email](Gurjant_85@yahoo.com)
 
 [Github Profile](https://github.com/GurjantRiar/
 )
